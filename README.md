@@ -14,6 +14,6 @@ demonstrando o passo a passo de cada cálculo e itens visuais apresentados no Da
 
 ![image](https://github.com/user-attachments/assets/691a1c7c-a2b4-4850-92f0-1de863da71de)
 
-Dashboard confeccionado com fins de aprendizado
+Dashboard confeccionado com fins de aprendizado.
 
-[Dashboard.base (1).xlsx](https://github.com/user-attachments/files/20873540/Dashboard.base.1.xlsx)
+[Dashboard_Xbox.xlsx](https://github.com/user-attachments/files/20873561/Dashboard_Xbox.xlsx)
