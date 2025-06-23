@@ -12,7 +12,7 @@ A proposta foi criar um Dashboard de Vendas utilizando os dados fictícios forne
 Toda instrução para confecção do Dashborad foi explanada pelo professor de forma clara
 demonstrando o passo a passo de cada cálculo e itens visuais apresentados no Dashboard.
 
-![image](https://github.com/user-attachments/assets/4212dd0c-3060-40bb-aa56-4cc1c85a1c73)
+![image](https://github.com/user-attachments/assets/691a1c7c-a2b4-4850-92f0-1de863da71de)
 
 Dashboard confeccionado com fins de aprendizado
 
